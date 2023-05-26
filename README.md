@@ -8,7 +8,7 @@
 - Terabox Downloader
 
 
-[Link Tools](https://xiixi.site)
+Link Tools[xiixi.site](https://xiixi.site)
 
 ## Author
 - AMFCODE
